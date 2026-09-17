@@ -1,11 +1,12 @@
-<!-- Banner Animasi Teks Mengetik -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&lines=Hello,+I'm+Fawwaz;Aspiring+DevOps+%26+Cloud+Engineer;AWS+re%2FStart+Program;Building+with+Docker+%26+Proxmox" alt="Typing SVG" />
-</h1>
+<!-- Capsule Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:20C20E&height=200&section=header&text=Fawwaz&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer&descAlignY=65&descSize=20" width="100%"/>
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation"/>
-</div>
+<!-- Terminal-style intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=20C20E&center=true&vCenter=true&width=550&lines=%24+whoami;fawwaz+%E2%80%94+informatics+student;%24+cat+goals.txt;DevOps+Engineer+%2B+Cloud+Engineer;%24+status;AWS+re%2FStart+%7C+building+CI%2FCD+pipelines" alt="terminal typing" />
+</p>
 
 ---
 
@@ -23,12 +24,13 @@ devops_engineer:
     - "AWS re/Start Program"
   technologies:
     cloud: ["AWS"]
-    containers: ["Docker"]
-    virtualization: ["Proxmox VE"]
-    web: ["Laravel", "Vue", "PHP", "JavaScript"]
+    containers: ["Docker", "Kubernetes"]
+    iac: ["Terraform"]
+    cicd: ["Jenkins", "Git"]
+    web: ["Laravel", "Vue", "PHP"]
     scripting: ["Bash", "Linux"]
-  current_focus: "Self-hosting, virtualization, and cloud infrastructure automation"
-  fun_fact: "I run my own Proxmox home server just to learn virtualization 🧪"
+  current_focus: "CI/CD pipelines, container orchestration, and infrastructure as code"
+  fun_fact: "My README literally deploys itself via GitHub Actions 🤖"
 ```
 
 ---
@@ -43,19 +45,21 @@ devops_engineer:
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 </td>
 <td valign="top" width="50%">
 
-**💻 Development**
+**🔄 CI/CD & Dev Tools**
 <p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 </td>
@@ -65,10 +69,11 @@ devops_engineer:
 | Technology | Purpose |
 |---|---|
 | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Cloud computing fundamentals |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerization & self-hosting |
-| ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) | Virtualization & home server |
-| ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Server administration |
-| ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | Backend web development |
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerization |
+| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Container orchestration |
+| ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | Infrastructure as Code |
+| ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | CI/CD automation |
+| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control |
 
 ---
 
@@ -81,6 +86,11 @@ devops_engineer:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawwazfara&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<!-- Contribution Snake — jalan otomatis via GitHub Actions, lihat catatan setup di bawah -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fawwazfara/Fawwazfara/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 ---

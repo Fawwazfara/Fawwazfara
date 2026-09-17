@@ -1,11 +1,9 @@
-<!-- Capsule Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:20C20E&height=200&section=header&text=Fawwaz&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer&descAlignY=65&descSize=20" width="100%"/>
-</p>
+<h1 align="center">Hi, I'm Fawwaz 👋</h1>
+<h3 align="center">Informatics Student — Aspiring DevOps & Cloud Engineer</h3>
 
-<!-- Terminal-style intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=20C20E&center=true&vCenter=true&width=550&lines=%24+whoami;fawwaz+%E2%80%94+informatics+student;%24+cat+goals.txt;DevOps+Engineer+%2B+Cloud+Engineer;%24+status;AWS+re%2FStart+%7C+building+CI%2FCD+pipelines" alt="terminal typing" />
+  <img src="https://img.shields.io/badge/status-building%20CI%2FCD%20pipelines-20C20E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AWS%20re%2FStart-in%20progress-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---

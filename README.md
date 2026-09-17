@@ -5,7 +5,7 @@
 
 <!-- Terminal-style intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=20C20E&center=true&vCenter=true&width=550&lines=%24+whoami;fawwaz+%E2%80%94+informatics+student;%24+cat+goals.txt;DevOps+Engineer+%2B+Cloud+Engineer;%24+status;AWS+re%2FStart+%7C+building+CI%2FCD+pipelines" alt="terminal typing" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=20C20E&center=true&vCenter=true&width=550&lines=%24+whoami;fawwaz+%E2%80%94+informatics+student;%24+cat+goals.txt;DevOps+Engineer+%2B+Cloud+Engineer;%24+status;AWS+re%2FStart+%7C+building+CI%2FCD+pipelines" alt="terminal typing" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ devops_engineer:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fawwazfara&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Fawwazfara&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <!-- Contribution Snake — jalan otomatis via GitHub Actions, lihat catatan setup di bawah -->

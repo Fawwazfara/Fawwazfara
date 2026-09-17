@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Fawwaz 👋</h1>
-<h3 align="center">Informatics Student — Aspiring DevOps & Cloud Engineer</h3>
+<p align="center">
+  <img src="banner.svg" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-building%20CI%2FCD%20pipelines-20C20E?style=flat-square"/>

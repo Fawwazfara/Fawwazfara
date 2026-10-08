@@ -1,114 +1,104 @@
-<p align="center">
-  <img src="banner.svg" width="100%"/>
-</p>
+# Fawwaz DevOps Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-building%20CI%2FCD%20pipelines-20C20E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AWS%20re%2FStart-in%20progress-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+**Informatics Student → DevOps & Cloud Engineer (in progress)**  
+West Java, Indonesia 🇮🇩 | UIN Sunan Gunung Djati Bandung — Distributed Computing track
+
+<div align="center">
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?style=for-the-badge&logo=kubernetes&logo=white)](https://kubernetes.io)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D28025.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io)
+[![Linux](https://img.shields.io/badge/Linux-FTTC0D.svg?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org)
+
+</div>
+
+<br>
+
+## 👤 Profile
+
+| Category | Details |
+|----------|---------|
+| **Name** | Fawwaz |
+| **Role** | Informatics Student → DevOps & Cloud Engineer (in progress) |
+| **Location** | West Java, Indonesia 🇮🇩 |
+| **University** | UIN Sunan Gunung Djati Bandung — Distributed Computing track |
+| **Primary OS** | Ubuntu 🐧 |
+
+## 🎓 Certifications & Training
+
+- AWS Certified Cloud Practitioner
+- AWS re/Start Program
+
+## ⚙️ Technologies
+
+| Category | Tools |
+|----------|-------|
+| **Cloud** | AWS |
+| **Containers** | Docker, Kubernetes |
+| **IaC** | Terraform |
+| **CI/CD** | Jenkins, Git |
+| **Web** | Laravel, Vue, PHP |
+| **Scripting** | Bash, Linux |
+
+## 🎯 Current Focus
+
+**CI/CD pipelines, container orchestration, and infrastructure as code**
+
+## 🤖 Fun Fact
+
+> My README literally deploys itself via GitHub Actions 🤖
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwaz&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawwaz&layout=compact&theme=radical&border_color=000000)
+
+</div>
+
+<br>
+
+## 🚀 Projects
+
+### Docker & Container Orchestration
+- Multi-container applications with Docker Compose
+- Kubernetes deployments and services
+- Container image optimization
+
+### Infrastructure as Code
+- Terraform configurations for cloud resources
+- Provisioning on AWS, GCP, Azure
+
+### CI/CD Pipelines
+- Jenkins pipeline jobs
+- Git integration and automation
+
+<br>
+
+## 🛠️ Skills Dashboard
+
+<div align="center">
+
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes Badge](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform Badge](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins Badge](https://img.shields.io/badge/Jenkins-D28025?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FTTC0D?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
+
+<br>
 
 ---
 
-### ⚙️ `infrastructure.yaml` (About Me)
+<div align="center">
 
-```yaml
-devops_engineer:
-  name: "Fawwaz"
-  role: "Informatics Student → DevOps & Cloud Engineer (in progress)"
-  location: "West Java, Indonesia 🇮🇩"
-  university: "UIN Sunan Gunung Djati Bandung — Distributed Computing track"
-  primary_os: "Ubuntu 🐧"
-  certifications_and_training:
-    - "AWS Certified Cloud Practitioner"
-    - "AWS re/Start Program"
-  technologies:
-    cloud: ["AWS"]
-    containers: ["Docker", "Kubernetes"]
-    iac: ["Terraform"]
-    cicd: ["Jenkins", "Git"]
-    web: ["Laravel", "Vue", "PHP"]
-    scripting: ["Bash", "Linux"]
-  current_focus: "CI/CD pipelines, container orchestration, and infrastructure as code"
-  fun_fact: "My README literally deploys itself via GitHub Actions 🤖"
-```
+<sub>Built with ❤️ using Markdown & GitHub Actions</sub>
 
----
-
-### 🛠️ Technology Arsenal
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**☁️ Cloud & Infrastructure**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-**🔄 CI/CD & Dev Tools**
-<p>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
-
-| Technology | Purpose |
-|---|---|
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | Cloud computing fundamentals |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | Containerization |
-| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | Container orchestration |
-| ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | Infrastructure as Code |
-| ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) | CI/CD automation |
-| ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) | Version control |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fawwazfara&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawwazfara&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fawwazfara&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<!-- Contribution Snake — jalan otomatis via GitHub Actions, lihat catatan setup di bawah -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fawwazfara/Fawwazfara/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="https://portfolio-fawwaz.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <!-- Ganti link di bawah dengan akun kamu masing-masing -->
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fawwazfara&style=for-the-badge&color=2EA043" />
-</p>
+</div>
